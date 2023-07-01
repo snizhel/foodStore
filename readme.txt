@@ -1,2 +1,2 @@
--run PetStoreFull.sql
+-run sql
 -run the project
